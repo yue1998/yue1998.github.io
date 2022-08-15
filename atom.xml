@@ -3,11 +3,11 @@
   <title>Alin blogs</title>
   
   
-  <link href="https://github.com/yue1998/yue1998.github.io.git/atom.xml" rel="self"/>
+  <link href="https://yue1998.github.io.git/atom.xml" rel="self"/>
   
-  <link href="https://github.com/yue1998/yue1998.github.io.git/"/>
+  <link href="https://yue1998.github.io.git/"/>
   <updated>2022-08-15T13:24:18.370Z</updated>
-  <id>https://github.com/yue1998/yue1998.github.io.git/</id>
+  <id>https://yue1998.github.io.git/</id>
   
   <author>
     <name>Alin馨馨</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/yue1998/yue1998.github.io.git/hello-world/"/>
-    <id>https://github.com/yue1998/yue1998.github.io.git/hello-world/</id>
+    <link href="https://yue1998.github.io.git/hello-world/"/>
+    <id>https://yue1998.github.io.git/hello-world/</id>
     <published>2022-08-15T13:24:18.370Z</published>
     <updated>2022-08-15T13:24:18.370Z</updated>
     
